@@ -1,0 +1,274 @@
+{
+ "28402712": {
+  "how": "EPMC err HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=60)",
+  "n": 0,
+  "snips": []
+ },
+ "41545885": {
+  "how": "EPMC PMC12896027",
+  "n": 5,
+  "snips": [
+   "052-025-02183-5 2183 1 Research Pathogen trends and paradigm shifts of respiratory infections in children: a 5-year retrospective study from Perugia http://orcid.org/0009-0005-2176-2586 Elena Fiumicelli 1 Sofia Nicolì 1 Paola Pazzelli",
+   "d antigenic tests. The main aim of this retrospective study was to evaluate the epidemiology of respiratory infections among children hospitalized in Perugia during the epidemic seasons of 2018–2019 and 2023–2024, comparing clinical severity, hospitalization length,",
+   "ospital duration and associated costs. Methods The study protocol was approved by the local Institutional Review Board (IRB) at the University of Perugia, Department of Medicine and Surgery, on June 14, 2024 with protocol number 4805/2024. We collected data from",
+   "nd Surgery, on June 14, 2024 with protocol number 4805/2024. We collected data from hospital reports about patients admitted to the Pediatric Unit of Perugia Hospital from October 1, 2018 to March 31, 2019 (pre-pandemic) and from October 1, 2023 to March 31, 2024 (po",
+   "accordance with the Declaration of Helsinki. The study protocol was approved by the local IRB (Department of Medicine and Surgery IRB, University of Perugia) on 14 June 2024 with protocol number 4805/2024. Informed consent was obtained from all individual participan"
+  ]
+ },
+ "40284764": {
+  "how": "EPMC PMC12029434",
+  "n": 2,
+  "snips": [
+   "on depends on additional factors that compromise host defences. The present study, conducted at the Veterinary Teaching Hospital of the University of Perugia over an 11-month period, investigated bacterial contamination in 70 surgeries (53 clean and 17 clean-contamin",
+   "Data Collection The study included horses undergoing clean or clean-contaminated surgeries at the Veterinary Teaching Hospital of the University of Perugia over an 11-month period. Informed consent was obtained from all owners. Eligible horses were those undergoing"
+  ]
+ },
+ "37889728": {
+  "how": "EPMC PMC10252015",
+  "n": 7,
+  "snips": [
+   "PMC10252015 10252015 10252015 37889728 10.3390/ani13111776 Antimicrobial Susceptibility of Commensal E. coli Isolated from Wild Birds in Umbria (Central Italy) Musa Laura Methodology, Validation, Investigation, Writing – review &amp; editing 1",
+   "the antimicrobial susceptibility of 100 commensal Escherichia coli strains isolated from wild birds admitted to the Veterinary Teaching Hospital of Perugia (Central Italy) and the possible presence of extended-spectrum beta-lactamase (ESBL)-producing E. coli and",
+   "this respect, we aimed to investigate the antimicrobial susceptibility of 100 commensal Escherichia coli strains, isolated from wild birds from an Umbrian rescue centre and admitted to the Veterinary Teaching Hospital of Perugia (Central Italy) mainly for traumati",
+   "100 commensal Escherichia coli strains, isolated from wild birds from an Umbrian rescue centre and admitted to the Veterinary Teaching Hospital of Perugia (Central Italy) mainly for traumatic injuries. The possible presence of Salmonella spp. and ESBL-producing",
+   "mensal E. coli isolates to the antimicrobials of clinical relevance for Public Health in wild birds admitted to the Veterinary Teaching Hospital of Perugia (Central Italy). The possible presence of ESBL-producing E. coli and the Salmonella spp. was also evaluat",
+   "100 cloacal swabs were collected from different wild bird species on arrival at the Veterinary Teaching Hospital (Department of Veterinary Medicine, Perugia, Central Italy) in order to take samples before any possible antimicrobial therapies. Cloacal swabs were coll",
+   "ly monitored birds were raptors belonging to different orders, all coming from “WildUmbria” rescue centre involved in the recovery of wildlife across Umbria region territory, prevalently composed of rural and forested areas. They usually presented traumatic lesions"
+  ]
+ },
+ "42931185": {
+  "how": "EPMC PMC13708157",
+  "n": 12,
+  "snips": [
+   "are recognized causes of outbreaks in Neonatal Intensive Care Units (NICU). We investigated a cluster of VIM-producing Serratia spp. in the NICU of Santa Maria della Misericordia Hospital, Perugia, through a retrospective epidemiological and genomic analysis integrating clinical and surv",
+   "natal Intensive Care Units (NICU). We investigated a cluster of VIM-producing Serratia spp. in the NICU of Santa Maria della Misericordia Hospital, Perugia, through a retrospective epidemiological and genomic analysis integrating clinical and surveillance data, ant",
+   "eak neonatal intensive care unit (NICU) carbapenemase-producing bacteria bla VIM-1 whole-genome sequencing antimicrobial resistance Umbria Region https://ror.org/0329bcd18 No. 524 University of Perugia https://ror.org/00x27da85 Rice",
+   "a bla VIM-1 whole-genome sequencing antimicrobial resistance Umbria Region https://ror.org/0329bcd18 No. 524 University of Perugia https://ror.org/00x27da85 Ricerca_Ateneo_2021_MMMAINSTREAM This work was supported by the Umbria Regio",
+   "rg/0329bcd18 No. 524 University of Perugia https://ror.org/00x27da85 Ricerca_Ateneo_2021_MMMAINSTREAM This work was supported by the Umbria Region: resolution of the regional council (No. 524, 5 June 2024) and by the University of Perugia: Ricerca_A",
+   "_2021_MMMAINSTREAM This work was supported by the Umbria Region: resolution of the regional council (No. 524, 5 June 2024) and by the University of Perugia: Ricerca_Ateneo_2021_MMMAINSTREAM. pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo",
+   "de a more robust reconstruction of outbreak dynamics. In November 2024, VIM-producing Serratia spp. emerged among neonates admitted to the NICU of Santa Maria della Misericordia Hospital, Perugia, causing both colonization and infection cases. We conducted a retrospective epidemiologica",
+   "ak dynamics. In November 2024, VIM-producing Serratia spp. emerged among neonates admitted to the NICU of Santa Maria della Misericordia Hospital, Perugia, causing both colonization and infection cases. We conducted a retrospective epidemiological and genomic inve",
+   "iagnostic or therapeutic interventions were performed specifically for research purposes. The study was approved by the Regional Ethics Committee—CER Umbria (approval no. 4457/23, approval date: 25 January 2023). 2.9. Availability of Data and Materials The bacte",
+   "nd Conclusions This study describes an outbreak of VIM-producing members of the Serratia marcescens complex among neonates admitted to the NICU of Santa Maria della Misericordia Hospital, Perugia. The investigation combined patient-level epidemiological data, routine microbiological sur",
+   "utbreak of VIM-producing members of the Serratia marcescens complex among neonates admitted to the NICU of Santa Maria della Misericordia Hospital, Perugia. The investigation combined patient-level epidemiological data, routine microbiological surveillance, antimic",
+   "e with the principles of the Declaration of Helsinki and applicable national regulations. The study was approved by the Regional Ethics Committee—CER Umbria (approval no. 4457/23, approval date: 25 January 2023). Informed Consent Statement Not applicable. The in"
+  ]
+ },
+ "32854334": {
+  "how": "EPMC PMC7563368",
+  "n": 3,
+  "snips": [
+   "rams (ASP) has been shown to reduce healthcare-related infections caused by multidrug resistance (MDR) germs. Since 2016, in our teaching hospital of Terni, an ASP has been implemented in an intensive care unit (ICU) setting, with the “daily-ICU round strategy” and",
+   "D-19 era, during the COVID-19 pandemic, and in post-COVID-19 era. 2. Materials and Methods 2.1. Setting Since 2016, in our teaching hospital of Terni (Umbria, Italy), with 554 hospital beds, an ASP has been implemented in our ICU setting with 14 beds. The ICU",
+   "a, during the COVID-19 pandemic, and in post-COVID-19 era. 2. Materials and Methods 2.1. Setting Since 2016, in our teaching hospital of Terni (Umbria, Italy), with 554 hospital beds, an ASP has been implemented in our ICU setting with 14 beds. The ICU cares f"
+  ]
+ },
+ "33669325": {
+  "how": "EPMC PMC7920295",
+  "n": 13,
+  "snips": [
+   "of this infection. This study aimed to assess the prevalence and risk factors of C. difficile in calves bred in dairy and beef cattle farms of the Umbria, central Italy. We estimated a 19.8% prevalence of farms positive for C. difficile . The C. difficile isol",
+   "of antimicrobials is a major risk factor for C. difficile infection. Here, we provide data on C. difficile infection in dairy and beef calves in Umbria, a region in central Italy. This cross-sectional study focuses on prevalence, risk factors, ribotypes, toxino",
+   "aim of this cross-sectional study was to evaluate the prevalence as well as the potential risk factors of C. difficile in dairy and beef calves in Umbria, a region situated in central Italy. The study investigated the antimicrobial susceptibility, toxinotypes and",
+   "2. Materials and Methods 2.1. Study Population and Data Collection A cross-sectional study was conducted on dairy and beef cattle farms of the Umbria region in Central Italy. A total of 101 bovine farms were enrolled between September 2017 and April 2018. The",
+   "ge. All calves were born on the same farm where they were sampled. The farms included in the study were involved in the animal welfare program of the Umbria region (2014–2020 Rural Development Program of Umbria region, Measure 14. https://www.regione.umbria.it/agri",
+   "ere sampled. The farms included in the study were involved in the animal welfare program of the Umbria region (2014–2020 Rural Development Program of Umbria region, Measure 14. https://www.regione.umbria.it/agricoltura/misura14 ). Of the 101 cattle farms, 47 were",
+   "e involved in the animal welfare program of the Umbria region (2014–2020 Rural Development Program of Umbria region, Measure 14. https://www.regione.umbria.it/agricoltura/misura14 ). Of the 101 cattle farms, 47 were dairy farms and 54 were beef farms. Based on th",
+   "amples (6.7%; CI95%, 4.2–9.1%) and from 20 out of 101 farms (19.8%) (CI95%, 12–27.6%). The farms tested were distributed in 47 municipalities in the Umbria region ( Figure 1 ). Figure 1 Geographical distribution of C. difficile positive farms.",
+   "mmunity-associated infections; particularly for pigs and cattle [ 1 , 33 , 34 ]. In this study, data on the prevalence of C. difficile in calves in Umbria are shown, together with the belonging ribotypes and antimicrobial resistance profiles. To minimise the samp",
+   "y and equally divided between dairy and beef farms. They were characterised only by a few intensive and many semi-intensive farms, as typical for the Umbria region [ 17 ]. As reported by Ferroni et al. [ 19 ], the sampled population was no different from the regiona",
+   "on in terms of livestock category (beef or dairy) or of herd sizes. C. difficile -positive farms were distributed all over the territory within the Umbria region, but Norcia was the only municipality that had three positive herds. This area was severely affected b",
+   "stock category (beef or dairy) or of herd sizes. C. difficile -positive farms were distributed all over the territory within the Umbria region, but Norcia was the only municipality that had three positive herds. This area was severely affected by an earthquake in",
+   "er or vegetables may thus represent another CDI indirect transmission pathway [ 77 , 78 ]. It should be noted that in a previous study carried out in Umbria, RT-126 was also recovered from a hospital food (lettuce), thus reinforcing the hypothesis of a transmission"
+  ]
+ },
+ "35832036": {
+  "how": "EPMC PMC9272083",
+  "n": 14,
+  "snips": [
+   "resistance of enterococci isolated from Pecorino and goat cheese manufactured on-farm in an area facing constraints as per EU Regulation 1305/2013 in Umbria, Italy Grispoldi Luca 1 ✉ Karama Musafiri 2 El-Ashram Saeed 3 4 Saraiva Cristina",
+   "García-Díez Juan 5 Chalias Athanasios 7 Cenci-Goga Beniamino 1 2 ✉ Dipartimento di Medicina Veterinaria, Universita di Perugia, via San Costanzo 4, 06121 Perugia, Italy. +39.075.5857973. grisluca@outlook.it. # Contributions: The a",
+   "Athanasios 7 Cenci-Goga Beniamino 1 2 ✉ Dipartimento di Medicina Veterinaria, Universita di Perugia, via San Costanzo 4, 06121 Perugia, Italy. +39.075.5857973. grisluca@outlook.it. # Contributions: The authors contributed equally. Conf",
+   "study was to investigate the evolution of enterococci during the production and ripening of Pecorino cheese made in three different farms, located in Umbria, Italy in areas facing natural or other specific constraints as stipulated by Regulation 1305/2013 on support",
+   "Agricultural Fund for Rural Development (EAFRD). Enterococci are enteric organisms which are commonly isolated from ewe and goat’s milk production in Umbria, Italy. Counts of enterococci in raw milk ranged from 1.75 for ovine milk to 3.62 for ewe milk and a marked r",
+   "g the economic activities in mountain areas and redistributing wealth, whilst, at the same time, promoting the territory (Bonadonna et al . 2017 ). Umbria, Italy is a region with several areas facing natural or other specific constraints as stipulated by Regulatio",
+   "of produce acetoin, diacetyl and acetaldehyde (Marilley and Casey, 2004 ). In an attempt to characterize cheese production from a mountain area in Umbria, Italy, and define safety aspects, the aim of this work was to investigate the evolution of enterococci durin",
+   "for antibiotic susceptibility all along the cheesemaking and ripening process. Materials and Methods Study area The three farms are located in Umbria, Italy in an area that extends from latitude 42.977715°N to 43.227086°N and from longitude 12.141079°E to 12.",
+   "area, partly hilly and mountainous and partly flat and fertile owing to the valley of the Tiber River, is separated from the central Apennines by the Tiber Valley (“Val Tiberina”). The farms are located in areas facing natural or other specific constraints as stipulated b",
+   "less acute but the combination of the two gives rise to an equivalent constraint. Figure 1. Geographical position of the three farms located in Umbria, Italy. General The experiment was carried out on three farms in Umbria, farm A, has 500",
+   "1. Geographical position of the three farms located in Umbria, Italy. General The experiment was carried out on three farms in Umbria, farm A, has 500 Sardinian ewes, farm B has 200 Sardinian ewes, farm C has 80 Saanen goats. In farm A and B m",
+   "ain steps of cheesemaking process were: milk coagulation in a tinned copper vat occurred at 37°C within about 30’ by adding liquid calf rennet (Lima, Perugia, Italy, titre 1:10.000). The curd was cut into nut-sized granules (10 to 20 mm), then stirring for 5 minutes,",
+   "of the utmost importance to assess the interest in the application of the new mountain label and the perception of the food mountain products by the Umbria Region. However, we believe that the creation of a label to protect and certify mountain food could be the ba",
+   "ain quality food products and the sustainability of these areas. Acknowledgments The authors express sincere appreciation to members of Polyglot, Perugia, Italy, for a careful reading and comments on the manuscript. Funding Statement Funding: This research wa"
+  ]
+ },
+ "29119090": {
+  "how": "EPMC PMC5658658",
+  "n": 15,
+  "snips": [
+   "d Saf PAGEPress PMC5658658 5658658 5658658 29119090 10.4081/ijfs.2017.6886 Evaluation of antibiotic usage in swine reproduction farms in Umbria region based on the quantitative analysis of antimicrobial consumption Scoppetta Fausto 1 ✉ Sens",
+   "1 ✉ Sensi Marco 2 Franciosini Maria Pia 3 Capuccella Marinella 1 ✉ Institute for Experimental Veterinary Medicine of Umbria and Marche, Umbria Regional Center of Veterinary Pharmacovigilance, via G. Salvemini, 1, 06126 Perugia, Italy",
+   "arco 2 Franciosini Maria Pia 3 Capuccella Marinella 1 ✉ Institute for Experimental Veterinary Medicine of Umbria and Marche, Umbria Regional Center of Veterinary Pharmacovigilance, via G. Salvemini, 1, 06126 Perugia, Italy. Tel. +39 75 343 3",
+   "stitute for Experimental Veterinary Medicine of Umbria and Marche, Umbria Regional Center of Veterinary Pharmacovigilance, via G. Salvemini, 1, 06126 Perugia, Italy. Tel. +39 75 343 3006. f.scoppetta@izsum.it Conflicts of interest: the authors declare no potenti",
+   "ria and Marche, Umbria Regional Center of Veterinary Pharmacovigilance, via G. Salvemini, 1, 06126 Perugia, Italy. Tel. +39 75 343 3006. f.scoppetta@izsum.it Conflicts of interest: the authors declare no potential conflict of interest. 28 9 2017 6 3",
+   "edicine, especially colistin. These aspects could be considered critical aspects of antibiotic use in from-farrow-to-wean/finish swine farms in the Umbria region and must be controlled to minimize risks. Even though a small number of farms in Umbria region are at",
+   "use in from-farrow-to-wean/finish swine farms in the Umbria region and must be controlled to minimize risks. Even though a small number of farms in Umbria region are at high antibiotic risk, the risk of antibiotic resistance should be minimized, and management and",
+   "ences on both human and veterinary public health. In this study, an evaluation of the qualitative use of antibiotics in the pig breeding farms of the Umbria region is proposed. It is based on reliable data on the use of antimicrobials and was evaluated with a DDD-b",
+   "A. Materials and Methods Data collection and analysis All the breeding sow farms, with more than 60 reproductive females, were selected in the Umbria region (Central Italy). Data on type of farming and number of reared animals were collected from the national",
+   "were considered significant. Results Eighteen from-farrow-to-wean/finish swine farms with &gt; 60 heads of breeding sows were identified in the Umbria region. Only 14 accepted to participate to the study. A total number of 36096 animals were reared in all the",
+   "easurements in our study, could probably explain the highest antibiotic consumption in sows and boars, however further analysis should be done in the Umbria region and in Italy to assess which productive category is really the most treated in pig reproduction farms.",
+   "lides for the treatment of campylobacteriosis infections in humans, their use should also be reduced in from-farrow-to-wean/finish pig farms in the Umbria region by improving vaccination and good management/hygiene practices. In addition, it could be advisable to",
+   "emaining categories (65% medium risk and 14% low risk ). These results suggest that high problematic from farrow to wean/finish pig farms in the Umbria region in terms of antimicrobial use are few, even if actions to improve management, biosecurity, diagnostic",
+   "variable outcome in order to classify the antibiotic risk . The use of antibiotics within pig breeding farms ( from farrow to wean/finish ) in the Umbria region should be strictly controlled because it could become a concern for the public health in terms of anti"
+  ]
+ },
+ "32466135": {
+  "how": "EPMC PMC7277698",
+  "n": 15,
+  "snips": [
+   "e the first qualitative and quantitative analysis of antimicrobial usage using data from paper-based registers on dairy and beef farms located in the Umbria region, Italy. Antimicrobial therapies of a one-year period were collected from 101 farms with at least 50 ca",
+   "from the National Livestock Registry, December 31st 2017). In central Italy, the population is reduced to 391,606 cattle, of which 55,468 are in the Umbria region (data from the National Livestock Registry, December 31st 2017). In central and southern Italy, a less",
+   "d be focused on drug consumption. According to European priorities and to satisfy consumer demands for welfare-friendly animal-derived products, the Umbria region implemented Measure 14 on animal welfare in the context of the Rural Development Program 2014–2020. Th",
+   "elopment Program 2014–2020. The Measure involved 72 dairy farms (a total of 10,284 cows, representing 70% of the total dairy cattle population in the Umbria region) and 268 beef farms (a total of 15,471 cows, representing 41% of the total beef cow population of the",
+   "e and quantitative characterization of the actual antimicrobial usage recorded on paper-based registers on sample beef and dairy farms located in the Umbria region. The obtained results could represent a stepping stone for further analysis, which will be based on mo",
+   "Figure 1 Territorial distribution of sampled farms. The sampled farms represented 4% of the total cattle breeding farms in the Umbria region with at least one animal (101/2496) and 40.9% of those with at least 50 cattle units (101/247). No sta",
+   "ntire regional population. Additionally, small herds with less than 50 cattle, albeit constituting a large portion of the overall cattle farms in the Umbria region, were not included in the present research. Despite this, the sampled farms appeared to be reasonably",
+   "the first weeks of their lives; this allows frequent health checks and prompt therapy if a disease occurs. By contrast, on beef farms located in the Umbria region, calves are usually nursed by their mothers. These different management practices, which make oral adm",
+   "September 2017 to April 2018, according to the following criteria: voluntary participation to Measure 14 of the Rural Development Program (Regional)-Umbria 2014–2020 and herd size of at least 50 livestock units. The sampled farms were categorized according to thei",
+   "eir farms for the purposes of this research. The study was conducted in accordance with the Declaration of Helsinki, and the protocol was approved by IZSUM. 4.2. Sources of Consumption Data Data on antimicrobial consumption were extracted from paper-based regis",
+   "alitative and quantitative analysis of the actual antimicrobial usage recorded by paper-based registers on sample dairy and beef farms located in the Umbria region, Italy. These results will serve as a stepping stone for further analyses based on more advanced digit",
+   "5 Total 54 47 101 Table A2 No. of farms and farm size (mean, median, minimum, and max) per breeding type in the sampled farms and in Umbria Region in the same period. Herds Herd Size Type No. Mean Median Min. Max Beef Sampled",
+   "s and in Umbria Region in the same period. Herds Herd Size Type No. Mean Median Min. Max Beef Sampled 54 131 88 51 505 Umbria Region 174 119 82 50 895 Dairy Sampled 47 198 132 51 746 Umbria Region 73 167 104 51 74",
+   "Mean Median Min. Max Beef Sampled 54 131 88 51 505 Umbria Region 174 119 82 50 895 Dairy Sampled 47 198 132 51 746 Umbria Region 73 167 104 51 746 Table A3 Total no. of treated animals during the study period, per liv"
+  ]
+ },
+ "33668440": {
+  "how": "EPMC PMC7918772",
+  "n": 3,
+  "snips": [
+   "Cesare 7 Pomilio Francesco 4 Blasi Giuliana 1 González-Fandos Elena Academic Editor * Correspondence: f.guidi@izsum.it ; Tel.: +39-075-3431 13 2 2021 9 2 376 376 2 3 2021 © 2021 by the authors. License",
+   "2. Materials and Methods 2.1. Bacterial Strains The 66 Lm strains of the study were isolated by the Istituto Zooprofilattico Sperimentale of Umbria and Marche in a small-scale pork meat processing plant (Meat A) and in a dairy establishment (Dairy B) of Cen",
+   "eed to the published version of the manuscript. Funding This research was founded by the Italian Ministry of Health (Progetto di Ricerca Corrente IZSUM RC 006/2017). Institutional Review Board Statement Not applicable. Informed Consent Statement Not app"
+  ]
+ },
+ "34171653": {
+  "how": "EPMC PMC8243015",
+  "n": 3,
+  "snips": [
+   "oultry farming and it is used for multipurpose productions such as meat, eggs, fatty liver, down, and feathers for stuffing ( Romanov, 2011 ). In the Umbria region, the goose farm culture covers an important source, dealing with the tradition and the goose productio",
+   "d Husbandry A longitudinal study was performed at 2 geese farms in central Italy from April to July 2018. Both farms were located in the province of Perugia (central Italy), about 20 km away from each other. On both farms, the geese of Romagnola breed were raised",
+   "” (Cannara, Pg, Italy) for hosting and encouraging this study. This work was funded by the 10.13039/501100004486 Fondazione Cassa di Risparmio di Perugia (Grant: 2016.0151.021 “Tipicità delle produzioni locali: l'oca in vigna”). DISCLOSURES The authors dec"
+  ]
+ },
+ "34441721": {
+  "how": "EPMC PMC8392342",
+  "n": 3,
+  "snips": [
+   "i Marina 1 Pomilio Francesco 1 Blasi Giuliana 2 Schmitz-Esser Stephan Academic Editor * Correspondence: f.guidi@izsum.it or guidifabrizia@yahoo.it ; Tel.: +39-075-3431 20 8 2021 10 8 1944 1944 28 8 2021",
+   "ood of ASUR Marche for sampling activity and technical assistance. The authors also thank all personnel of Istituto Zooprofilattico Sperimentale dell’Umbria e delle Marche for their valuable technical support. We thank the Institut Pasteur teams for the curation and",
+   "eed to the published version of the manuscript. Funding This research was founded by the Italian Ministry of Health (Progetto di Ricerca Corrente IZSUM 01/19 RC). Institutional Review Board Statement Not applicable. Informed Consent Statement Not applic"
+  ]
+ },
+ "34769888": {
+  "how": "EPMC PMC8583557",
+  "n": 5,
+  "snips": [
+   "i Enrico 1 Semedo-Lemsaddek Teresa Academic Editor Rodríguez-Lázaro David Academic Editor * Correspondence: s.primavilla@izsum.it (S.P.); rossana.roila@unipg.it (R.R.); Tel.: +39-075343213 (S.P.); +39-0755857936 (R.R.) 29 10 20",
+   "les Collection Between January 2019 and September 2020, 179 carcass samples have been collected from 5 pig slaughterhouses located in Central Italy (Umbria and Marche regions). In particular, three slaughterhouses were classified as small-sized (capacity of &lt;500",
+   "Central Italy. C. difficile was recovered from four carcasses (4 out of 179—2.2%) and all the positive samples came from the same slaughterhouse (Umbria region). The isolated strains belonged to a ribotype that did not match the reference strains available in th",
+   "od supply and its clinical relevance. Acknowledgments The authors would like to thank Stefania Scuota (Istituto Zooprofilattico Sperimentale dell’Umbria e delle Marche “Togo Rosati”) for her significant support in the organization of the project and Luca Budelli",
+   "go Rosati”) for her significant support in the organization of the project and Luca Budelli (Servizio di Igiene degli Alimenti di Origine Animale—USL Umbria 1) and Valentina Gentili and Simonetta Ruggeri (Servizio di Igiene degli Alimenti di Origine Animale—ASUR Mar"
+  ]
+ },
+ "35832815": {
+  "how": "EPMC PMC9271897",
+  "n": 2,
+  "snips": [
+   "esearch Council of South Africa (ARC-SA), South Africa; Frederique Pasquali, University of Bologna, Italy *Correspondence: Fabrizia Guidi, f.guidi@izsum.it , guidifabrizia@yahoo.it This article was submitted to Food Microbiology, a section of the journal Fro",
+   "y be made by its manufacturer, is not guaranteed or endorsed by the publisher. Funding This study was funded by the Italian Ministry of Health (IZSUM RC0012019). We would like to thank the team of curators of the Institute Pasteur MLST databases ( http://b"
+  ]
+ },
+ "37436553": {
+  "how": "EPMC PMC10698071",
+  "n": 1,
+  "snips": [
+   "(43°21’29.99’’N; 13°39’10.18’’E), province of Macerata (Marche region, Central Italy) and then submitted to the Istituto Zooprofilattico Sperimentale Umbria and Marche ‘Togo Rosati’ of Tolentino (Marche region), to determine the cause of death. During necropsy, whic"
+  ]
+ },
+ "37627712": {
+  "how": "EPMC PMC10451661",
+  "n": 0,
+  "snips": []
+ },
+ "38499909": {
+  "how": "EPMC PMC11147935",
+  "n": 2,
+  "snips": [
+   "anuary 1 to June 30, 2023, 11 carcasses of Apennine wolves (6 females and 5 males, average age 3 years), involved in road accidents in the Marche and Umbria regions (Central Italy), were submitted to the Istituto Zooprofilattico Sperimentale Umbria and Marche ‘Togo",
+   "ge 3 years), involved in road accidents in the Marche and Umbria regions (Central Italy), were submitted to the Istituto Zooprofilattico Sperimentale Umbria and Marche ‘Togo Rosati’ to determine the cause of death. During necropsy, samples from the lung, liver, sple"
+  ]
+ },
+ "41148717": {
+  "how": "EPMC PMC12561032",
+  "n": 7,
+  "snips": [
+   "ntral Italy. Considering this background, this study, carried out through collaboration between the Department of Veterinary Medicine, University of Perugia (DVMP, Umbria (Central Italy), and the Department of Veterinary Medicine and Animal Science, University of Mi",
+   "onsidering this background, this study, carried out through collaboration between the Department of Veterinary Medicine, University of Perugia (DVMP, Umbria (Central Italy), and the Department of Veterinary Medicine and Animal Science, University of Milan (DVMM), Lo",
+   "ely reflects differences in local habitat structure, landscape composition, and anthropogenic pressures between Lombardy’s peri-urban environment and Umbria’s more internal rural context, emphasizing the complementary ecological contributions of both sites to the st",
+   "rengths, including the simultaneous investigation of ESKAPE pathogens in wild birds from two geographically and ecologically distinct areas of Italy, Umbria and Lombardy. These regions were deliberately selected as they could represent markedly different ecological",
+   "lected from various species of wild birds between February and September 2024. In particular 75 samples were obtained from birds coming from the Wild Umbria Rescue Centre (Umbria region) or occasionally brought by private citizens and received at the DVMP hospital.",
+   "ecies of wild birds between February and September 2024. In particular 75 samples were obtained from birds coming from the Wild Umbria Rescue Centre (Umbria region) or occasionally brought by private citizens and received at the DVMP hospital. The remaining 66 sampl",
+   "a, Italy) and immediately stored at 4 °C and transported to the respective microbiology laboratories, either the Laboratory of Infectious Diseases in Perugia or the Avian Pathology Unit in Lodi (Milan), for further analyses. 4.2. Bacterial Isolation and Identifica"
+  ]
+ },
+ "41640405": {
+  "how": "EPMC PMC12864392",
+  "n": 2,
+  "snips": [
+   "Resources, Writing – original draft, Investigation, Funding acquisition 1 5 ‡ * Correspondence: Francesca Romana Massacci, fr.massacci@izsum.it † These authors have contributed equally to this work and share first authorship ‡ These authors",
+   "l support was received for the research and/or publication of this article. This work was supported by the Italian Ministry of Health through project IZSUM RC006/2019. European Union funding within the NextGenerationEU-MUR PNRR Extended Partnership initiative on Em"
+  ]
+ },
+ "42564334": {
+  "how": "EPMC PMC13442648",
+  "n": 2,
+  "snips": [
+   "on, Writing – review &amp; editing, Writing – original draft, Investigation 2 † * Correspondence: Francesca Romana Massacci, fr.massacci@izsum.it † These authors have contributed equally to this work and share last authorship 23 7 2026 17",
+   "that financial support was received for this work and/or its publication. This work was supported by the Italian Ministry of Health (Research Project IZSUM 004/2022 RC). Edited by: Mattias Collin , Lund University, Sweden Reviewed by: Joana Moreira Da Sil"
+  ]
+ },
+ "32283597": {
+  "how": "EPMC PMC7235845",
+  "n": 6,
+  "snips": [
+   "compliance to guidelines. 2. Materials and Methods Our prospective study was conducted at “Santa Maria” hospital, which is a tertiary hospital in Terni, Umbria, Italy with 564 beds. The AMS program at “Santa Maria” Hospital began in February 2016 as a multilev",
+   "nce to guidelines. 2. Materials and Methods Our prospective study was conducted at “Santa Maria” hospital, which is a tertiary hospital in Terni, Umbria, Italy with 564 beds. The AMS program at “Santa Maria” Hospital began in February 2016 as a multilevel progr",
+   "phase 1 and phase 2. Phase 0. In April 2017, the AMS team together with surgeons, considering the international and national guidelines, defined the Terni hospital evidence-based guidelines for the optimal use of SAP, also synthesized in a pocket card. To improve",
+   "althcare software program. Step 4. The anaesthesiologist administers the antibiotic. The workflow is reported in Figure 1 . In December 2017, the Terni hospital evidence-based guidelines for the optimal use of SAP were published on the hospital’s website [ 19 ]",
+   "l evidence-based guidelines for the optimal use of SAP were published on the hospital’s website [ 19 ]. Educational and informative events about the Terni hospital guidelines and the new workflow were organized. Phase 1. Two authors (B.T., G.P.) analysed 2059 ele",
+   "Interest The authors declare no conflicts of interest. Figure 1 Workflow of ordering, dispensing, administering and documenting, defined by Terni hospital evidence-based guidelines for the optimal use of SAP. Figure 2 Overall compl"
+  ]
+ },
+ "39766596": {
+  "how": "EPMC PMC11672585",
+  "n": 1,
+  "snips": [
+   "Maresca Marc Academic Editor Kolar Milan Academic Editor * Correspondence: pallottoc@gmail.com or carlo.pallotto@ospedale.perugia.it ; Tel.: +39-0755784321 † These authors contributed equally to this work. 11 12 2024 12 2024"
+  ]
+ },
+ "39311205": {
+  "how": "EPMC PMC11417864",
+  "n": 0,
+  "snips": []
+ },
+ "40190998": {
+  "how": "EPMC PMC11966634 HTTP 500",
+  "n": 0,
+  "snips": []
+ },
+ "40805079": {
+  "how": "EPMC PMC12345454",
+  "n": 0,
+  "snips": []
+ }
+}

@@ -1,0 +1,4 @@
+Query Nominatim del 2026-11-20 (1 richiesta al secondo, UA «CodexVitae-AMR-atlas/1.0 (info@codexvitae.it)», countrycodes=it). Risultati scelti (amenity=hospital):
+- «Ospedale Santa Maria della Misericordia, Perugia» → Piazzale Giorgio Menghini 3, Perugia (43.0792015, 12.3553973). Usato anche per gli studi che citano genericamente l'ospedale universitario di Perugia. (L'omonimo ospedale di Udine è escluso dal filtro su Perugia.)
+- «Azienda Ospedaliera Santa Maria, Terni» → Via Vittorio Veneto, Terni (42.5563226, 12.6562709).
+Interrogati senza risultato: «Ospedale Veterinario Universitario Didattico, Perugia», «Ospedale Veterinario, Via San Costanzo, Perugia», «Dipartimento di Medicina Veterinaria, Perugia»: lo studio sugli uccelli selvatici (37889728) usa il poligono del comune di Perugia. Le risposte grezze sono in results_2026-11-20.json. Dati © OpenStreetMap contributors, ODbL 1.0.

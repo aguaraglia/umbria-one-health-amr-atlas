@@ -1,0 +1,71 @@
+{
+ "aopg_smm": {
+  "query": "Ospedale Santa Maria della Misericordia, Perugia",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 80109853,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1147994109,
+    "lat": "43.0792015",
+    "lon": "12.3553973",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.078583962763435e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Santa Maria della Misericordia",
+    "display_name": "Ospedale Santa Maria della Misericordia, 3, Piazzale Giorgio Menghini, Ponte della Pietra, Lacugnano, Perugia, Umbria, 06156, Italia",
+    "boundingbox": [
+     "43.0775034",
+     "43.0807924",
+     "12.3534112",
+     "12.3571984"
+    ]
+   }
+  ]
+ },
+ "aotr_sm": {
+  "query": "Azienda Ospedaliera Santa Maria, Terni",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79577451,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 646021813,
+    "lat": "42.5563226",
+    "lon": "12.6562709",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.517204547183973e-05,
+    "addresstype": "amenity",
+    "name": "Azienda Ospedaliera Santa Maria",
+    "display_name": "Azienda Ospedaliera Santa Maria, Via Vittorio Veneto, Città Giardino, Terni, Umbria, 05100, Italia",
+    "boundingbox": [
+     "42.5547889",
+     "42.5575199",
+     "12.6524379",
+     "12.6577011"
+    ]
+   }
+  ]
+ },
+ "ovud_pg": {
+  "query": "Ospedale Veterinario Universitario Didattico, Perugia",
+  "status": 200,
+  "results": []
+ },
+ "ovud_pg2": {
+  "query": "Ospedale Veterinario, Via San Costanzo, Perugia",
+  "status": 200,
+  "results": []
+ },
+ "dmv_pg": {
+  "query": "Dipartimento di Medicina Veterinaria, Perugia",
+  "status": 200,
+  "results": []
+ }
+}
