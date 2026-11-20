@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "umbria_amr_atlas",
+  "source_id": "ar_iss_2024_umbria",
+  "period": 2024,
+  "geography": "Umbria",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 90.7,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; l'Umbria partecipa con la propria rete regionale; serie dal 2016 (2015 senza dati), salto di numerosità dal 2018-2019"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 482,
+      "resistant": 182,
+      "percent": 37.8,
+      "ci95": "33.4-42.3"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 204,
+      "resistant": 143,
+      "percent": 70.1,
+      "ci95": "63.3-76.3"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 725,
+      "resistant": 187,
+      "percent": 25.8,
+      "ci95": "22.6-29.1"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 343,
+      "resistant": 125,
+      "percent": 36.4,
+      "ci95": "31.3-41.8"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 163,
+      "resistant": 32,
+      "percent": 19.6,
+      "ci95": "13.8-26.6"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 107,
+      "resistant": 92,
+      "percent": 86.0,
+      "ci95": "77.9-91.9"
+    }
+  ],
+  "trend_note": "Serie 2018-2024 nell'Appendice A: MRSA 32,5% (2018) -> 37,8% (2024); VRE-faecium 47,7% (2018) -> 70,1% (2024); CREC 33,1% (2018) -> 25,8% (2024); CRKP 42,1% (2018) -> 36,4% (2024); CRPA 20,0% (2018) -> 19,6% (2024); CRAS 77,4% (2018) -> 86,0% (2024).",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura) e Appendice A, Regione Umbria (p. 57 a stampa, p. 65 del PDF)",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-19",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}

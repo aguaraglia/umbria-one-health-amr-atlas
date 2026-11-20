@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "edition": "umbria_amr_atlas",
+  "source_id": "istisan_26_7_umbria_2024",
+  "period": 2024,
+  "geography": "Umbria",
+  "scope": "uso di antibiotici sistemici (J01): territorio (convenzionata, per distretto) e ospedale (DDD/100 giornate di degenza)",
+  "regional_summary": {
+    "territorial_ddd_1000_inh_day": 19.0,
+    "territorial_ddd_delta_pct_24_23": 4.2,
+    "prevalence_of_use_pct": 43.9,
+    "spend_per_capita_eur": 11.03,
+    "coamoxiclav_ddd_1000_inh_day": 7.27,
+    "watch_share_note": "poco meno della metà del consumo territoriale è nel gruppo Watch (AWaRe)",
+    "hospital_ddd_100_bed_days": 83.5,
+    "hospital_ddd_delta_pct_24_23": 4.5
+  },
+  "districts_table3": [
+    {
+      "usl": "USL Umbria 1",
+      "district": "Città di Castello",
+      "spend_per_capita_eur": 9.75,
+      "spend_delta_pct_24_23": -5.6,
+      "ddd_1000_inh_day": 18.6,
+      "ddd_delta_pct_24_23": 2.2,
+      "cost_per_ddd_eur": 1.43,
+      "cost_delta_pct_24_23": -7.9,
+      "prevalence_of_use_pct": 42.2
+    },
+    {
+      "usl": "USL Umbria 1",
+      "district": "Gubbio-Gualdo",
+      "spend_per_capita_eur": 11.08,
+      "spend_delta_pct_24_23": 3.0,
+      "ddd_1000_inh_day": 18.9,
+      "ddd_delta_pct_24_23": 6.5,
+      "cost_per_ddd_eur": 1.6,
+      "cost_delta_pct_24_23": -3.6,
+      "prevalence_of_use_pct": 44.9
+    },
+    {
+      "usl": "USL Umbria 1",
+      "district": "Perugia",
+      "spend_per_capita_eur": 10.02,
+      "spend_delta_pct_24_23": -0.9,
+      "ddd_1000_inh_day": 18.2,
+      "ddd_delta_pct_24_23": 2.6,
+      "cost_per_ddd_eur": 1.51,
+      "cost_delta_pct_24_23": -3.6,
+      "prevalence_of_use_pct": 41.6
+    },
+    {
+      "usl": "USL Umbria 1",
+      "district": "Assisi",
+      "spend_per_capita_eur": 12.23,
+      "spend_delta_pct_24_23": 1.7,
+      "ddd_1000_inh_day": 21.5,
+      "ddd_delta_pct_24_23": 5.3,
+      "cost_per_ddd_eur": 1.55,
+      "cost_delta_pct_24_23": -3.6,
+      "prevalence_of_use_pct": 47.1
+    },
+    {
+      "usl": "USL Umbria 1",
+      "district": "Todi",
+      "spend_per_capita_eur": 11.66,
+      "spend_delta_pct_24_23": 2.4,
+      "ddd_1000_inh_day": 20.3,
+      "ddd_delta_pct_24_23": 6.7,
+      "cost_per_ddd_eur": 1.57,
+      "cost_delta_pct_24_23": -4.3,
+      "prevalence_of_use_pct": 41.6
+    },
+    {
+      "usl": "USL Umbria 1",
+      "district": "Trasimeno",
+      "spend_per_capita_eur": 9.96,
+      "spend_delta_pct_24_23": 2.4,
+      "ddd_1000_inh_day": 17.6,
+      "ddd_delta_pct_24_23": 3.6,
+      "cost_per_ddd_eur": 1.54,
+      "cost_delta_pct_24_23": -1.4,
+      "prevalence_of_use_pct": 45.9
+    },
+    {
+      "usl": "USL Umbria 1",
+      "district": "Totale",
+      "spend_per_capita_eur": 10.55,
+      "spend_delta_pct_24_23": 0.0,
+      "ddd_1000_inh_day": 18.9,
+      "ddd_delta_pct_24_23": 3.9,
+      "cost_per_ddd_eur": 1.52,
+      "cost_delta_pct_24_23": -4.1,
+      "prevalence_of_use_pct": 43.2
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Norcia",
+      "spend_per_capita_eur": 11.39,
+      "spend_delta_pct_24_23": 1.2,
+      "ddd_1000_inh_day": 18.5,
+      "ddd_delta_pct_24_23": -0.5,
+      "cost_per_ddd_eur": 1.68,
+      "cost_delta_pct_24_23": 1.5,
+      "prevalence_of_use_pct": 43.8
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Foligno",
+      "spend_per_capita_eur": 12.45,
+      "spend_delta_pct_24_23": 6.5,
+      "ddd_1000_inh_day": 21.3,
+      "ddd_delta_pct_24_23": 6.7,
+      "cost_per_ddd_eur": 1.6,
+      "cost_delta_pct_24_23": -0.5,
+      "prevalence_of_use_pct": 46.6
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Spoleto",
+      "spend_per_capita_eur": 10.18,
+      "spend_delta_pct_24_23": 6.5,
+      "ddd_1000_inh_day": 18.5,
+      "ddd_delta_pct_24_23": 9.6,
+      "cost_per_ddd_eur": 1.5,
+      "cost_delta_pct_24_23": -3.1,
+      "prevalence_of_use_pct": 43.6
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Terni",
+      "spend_per_capita_eur": 11.28,
+      "spend_delta_pct_24_23": 7.0,
+      "ddd_1000_inh_day": 18.4,
+      "ddd_delta_pct_24_23": 7.3,
+      "cost_per_ddd_eur": 1.67,
+      "cost_delta_pct_24_23": -0.5,
+      "prevalence_of_use_pct": 45.2
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Amelia",
+      "spend_per_capita_eur": 11.34,
+      "spend_delta_pct_24_23": 12.3,
+      "ddd_1000_inh_day": 17.3,
+      "ddd_delta_pct_24_23": 9.2,
+      "cost_per_ddd_eur": 1.79,
+      "cost_delta_pct_24_23": 2.6,
+      "prevalence_of_use_pct": 43.1
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Orvieto",
+      "spend_per_capita_eur": 13.1,
+      "spend_delta_pct_24_23": 13.7,
+      "ddd_1000_inh_day": 19.4,
+      "ddd_delta_pct_24_23": 11.5,
+      "cost_per_ddd_eur": 1.84,
+      "cost_delta_pct_24_23": 1.7,
+      "prevalence_of_use_pct": 44.6
+    },
+    {
+      "usl": "USL Umbria 2",
+      "district": "Totale",
+      "spend_per_capita_eur": 11.66,
+      "spend_delta_pct_24_23": 8.2,
+      "ddd_1000_inh_day": 19.1,
+      "ddd_delta_pct_24_23": 7.9,
+      "cost_per_ddd_eur": 1.67,
+      "cost_delta_pct_24_23": 0.0,
+      "prevalence_of_use_pct": 44.8
+    },
+    {
+      "usl": "Umbria",
+      "district": "Totale",
+      "spend_per_capita_eur": 11.03,
+      "spend_delta_pct_24_23": 2.8,
+      "ddd_1000_inh_day": 19.0,
+      "ddd_delta_pct_24_23": 4.2,
+      "cost_per_ddd_eur": 1.59,
+      "cost_delta_pct_24_23": -1.6,
+      "prevalence_of_use_pct": 43.9
+    }
+  ],
+  "hospital_table29": [
+    {
+      "structure": "USL Umbria 1",
+      "ddd_100_bed_days": 64.3,
+      "ddd_delta_pct_24_23": 7.3,
+      "spend_per_bed_day_eur": 3.61,
+      "spend_delta_pct_24_23": 10.1
+    },
+    {
+      "structure": "Ospedale Città di Castello",
+      "ddd_100_bed_days": 82.4,
+      "ddd_delta_pct_24_23": -1.4,
+      "spend_per_bed_day_eur": 7.52,
+      "spend_delta_pct_24_23": -7.6
+    },
+    {
+      "structure": "USL Umbria 2",
+      "ddd_100_bed_days": 64.4,
+      "ddd_delta_pct_24_23": 1.4,
+      "spend_per_bed_day_eur": 3.07,
+      "spend_delta_pct_24_23": -10.1
+    },
+    {
+      "structure": "Ospedale Foligno",
+      "ddd_100_bed_days": 77.8,
+      "ddd_delta_pct_24_23": -0.5,
+      "spend_per_bed_day_eur": 7.64,
+      "spend_delta_pct_24_23": -7.2
+    },
+    {
+      "structure": "AO Perugia",
+      "ddd_100_bed_days": 102.7,
+      "ddd_delta_pct_24_23": 8.0,
+      "spend_per_bed_day_eur": 11.24,
+      "spend_delta_pct_24_23": 4.2
+    },
+    {
+      "structure": "AO Terni",
+      "ddd_100_bed_days": 87.7,
+      "ddd_delta_pct_24_23": 5.0,
+      "spend_per_bed_day_eur": 9.59,
+      "spend_delta_pct_24_23": 7.9
+    },
+    {
+      "structure": "Umbria",
+      "ddd_100_bed_days": 83.5,
+      "ddd_delta_pct_24_23": 4.5,
+      "spend_per_bed_day_eur": 7.82,
+      "spend_delta_pct_24_23": 1.4
+    }
+  ],
+  "usl_table8_total_ddd": {
+    "Umbria": 19.0,
+    "USL Umbria 1": 18.9,
+    "USL Umbria 2": 19.11
+  },
+  "limitations": "Consumo, non resistenza. I 12 distretti non hanno un confine ISTAT nell'atlante: nessun poligono, nessun downscaling ai comuni. Valori trascritti da pdftotext delle Tabelle 3, 8 e 29.",
+  "license": "CC BY 4.0 (Note legali ISS: https://www.iss.it/contatti ; testo: https://creativecommons.org/licenses/by/4.0/legalcode.it)",
+  "attribution": "Da Cas R, Annunziata A, Ippoliti I, Cutillo M, Marano G, Bucaneve G, Rocchi RE, Rossi M. Uso degli antibiotici nella Regione Umbria. Analisi dei dati relativi al 2024. Roma: Istituto Superiore di Sanità; 2026. (Rapporti ISTISAN 26/7)",
+  "source": {
+    "title": "Rapporti ISTISAN 26/7 - Uso degli antibiotici nella Regione Umbria. Analisi dei dati relativi al 2024",
+    "url": "https://www.iss.it/documents/20126/10781112/26-7+web.pdf/57fba051-bd63-3cbe-0a08-466e5cda942e?t=1776755727981",
+    "landing": "https://www.iss.it/-/rapporto-istisan-26/7-uso-degli-antibiotici-nella-regione-umbria.-analisi-dei-dati-relativi-al-2024.-roberto-da-cas-arianna-annunziata-ilaria-ippoliti-maria-cutillo-giuseppe-marano-giampaolo-bucaneve-rosalba-elisabetta-rocchi-mariangela-rossi",
+    "acquired_at": "2026-11-20",
+    "sha256": "38FA3AA775BF9A39C17EFDAC23711AB74D0563C6E7E50E8DA9904069B8316F1B"
+  }
+}

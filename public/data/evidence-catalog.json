@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "edition": "umbria_amr_atlas",
+  "records": [
+    {
+      "id": "ar_iss_2024_umbria",
+      "title": "AR-ISS 2024 - Umbria",
+      "publisher": "Istituto Superiore di Sanita",
+      "evidence_type": "human_amr_regional",
+      "geography": "Umbria",
+      "period": "2024",
+      "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+      "data_file": "public/data/ar_iss_2024_umbria.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Copertura 90,7%, rete regionale. MRSA 37,8% (182/482), VRE-faecium 70,1% (143/204), CREC 25,8% (187/725), CRKP 36,4% (125/343), CRPA 19,6% (32/163), CRAS 86,0% (92/107); nessun downscaling."
+    },
+    {
+      "id": "aifa_opendata_2024_umbria_j01",
+      "title": "AIFA Open Data 2024 - Umbria, antibatterici J01",
+      "publisher": "Agenzia Italiana del Farmaco",
+      "evidence_type": "human_antimicrobial_use",
+      "geography": "Umbria",
+      "period": "2024",
+      "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+      "data_file": "public/data/aifa_opendata_2024_umbria_j01.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Convenzionata 1.244.436 confezioni, 9,55 milioni di euro; acquisti diretti 594.312 confezioni, 7,09 milioni di euro. Consumo, non resistenza."
+    },
+    {
+      "id": "istisan_26_7_umbria_2024",
+      "title": "Rapporti ISTISAN 26/7 - Uso degli antibiotici nella Regione Umbria, dati 2024",
+      "publisher": "Istituto Superiore di Sanita",
+      "evidence_type": "human_antimicrobial_use",
+      "geography": "Umbria (12 distretti, 2 USL, 4 ospedali/aziende)",
+      "period": "2024",
+      "source_url": "https://www.iss.it/documents/20126/10781112/26-7+web.pdf/57fba051-bd63-3cbe-0a08-466e5cda942e?t=1776755727981",
+      "data_file": "public/data/istisan_26_7_umbria_2024.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Territorio 19,0 DDD/1000 ab die (+4,2%), prevalenza d'uso 43,9%; distretti da 17,3 (Amelia) a 21,5 (Assisi) DDD; ospedale 83,5 DDD/100 gg degenza, AO Perugia 102,7. Consumo, non resistenza; distretti senza poligono. Nessun poligono di distretto.",
+      "attribution": "Da Cas R, Annunziata A, Ippoliti I, Cutillo M, Marano G, Bucaneve G, Rocchi RE, Rossi M. Uso degli antibiotici nella Regione Umbria. Analisi dei dati relativi al 2024. Roma: Istituto Superiore di Sanità; 2026. (Rapporti ISTISAN 26/7)"
+    }
+  ]
+}
